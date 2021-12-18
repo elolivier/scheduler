@@ -1,7 +1,7 @@
 import React from 'react';
 
 const schedule = {
-  title: "CS Courses for 2018-2019"
+  title: "CS Courses for 2021-2022"
 };
 
 const App = () =>  (
